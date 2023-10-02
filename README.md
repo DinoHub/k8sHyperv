@@ -1,4 +1,6 @@
 # k8sHyperv
 
 Links to HyperV VMs
-https://github.com/moby/buildkit/raw/master/examples/systemd/system/buildkit.service
+
+https://drive.google.com/drive/folders/1nZTL1ioYQAqdv5NU-WvG8bb-ArCO33Mk
+
